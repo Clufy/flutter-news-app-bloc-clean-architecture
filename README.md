@@ -1,3 +1,5 @@
+![Flutter news app built with Clean Architecture and BLoC](.github/assets/banner.gif)
+
 # Flutter News App with Clean Architecture and BLoC
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
